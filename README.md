@@ -31,7 +31,7 @@ This repository implements Dijkstra's Algorithm in JavaScript for finding the sh
 
 ---
 
-## 📜 About the Algorithm
+## 📜 **About the Algorithm**
 
 Dijkstra's Algorithm is a greedy algorithm used for finding the shortest paths between nodes in a graph with non-negative weights. It is widely used in navigation systems, network routing, and other fields requiring shortest-path computations.
 
@@ -43,7 +43,7 @@ Dijkstra's Algorithm is a greedy algorithm used for finding the shortest paths b
 
 ---
 
-## 📂 Code Versions
+## 📂 **Code Versions**
 
 ### **Version 1**
 In this version:
@@ -61,7 +61,7 @@ In this version:
 
 ---
 
-## ⚙️ How to Use
+## ⚙️ **How to Use**
 
 1. Clone this repository:
    ```bash
@@ -70,5 +70,5 @@ In this version:
 
 ---
 
-## ⭐ Acknowledgements
+## ⭐ **Acknowledgements**
 Dijkstra's Algorithm - Wikipedia

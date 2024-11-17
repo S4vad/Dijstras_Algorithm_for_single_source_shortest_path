@@ -26,9 +26,8 @@ This repository implements Dijkstra's Algorithm in JavaScript for finding the sh
   - [Version 1](#version-1)
   - [Version 2](#version-2)
 - [How to Use](#how-to-use)
-- [Example Usage](#example-usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Acknowledgments](#Acknowledgements)
+
 
 ---
 

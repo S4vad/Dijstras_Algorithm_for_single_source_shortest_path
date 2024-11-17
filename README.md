@@ -67,5 +67,5 @@ In this version:
    cd Dijstras_Algorithm_for_single_source_shortest_path
 ---
 
-##⭐ Acknowledgments
+## ⭐ Acknowledgments
 This project was inspired by Dijkstra's Algorithm - Wikipedia.

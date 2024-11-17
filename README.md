@@ -26,12 +26,11 @@ This repository implements Dijkstra's Algorithm in JavaScript for finding the sh
   - [Version 1](#version-1)
   - [Version 2](#version-2)
 - [How to Use](#how-to-use)
-- [Acknowledgments](#Acknowledgements)
-
+- [Acknowledgments](#acknowledgments)
 
 ---
 
-## 📜 **About the Algorithm**
+## 📜 About the Algorithm
 
 Dijkstra's Algorithm is a greedy algorithm used for finding the shortest paths between nodes in a graph with non-negative weights. It is widely used in navigation systems, network routing, and other fields requiring shortest-path computations.
 
@@ -40,12 +39,11 @@ Dijkstra's Algorithm is a greedy algorithm used for finding the shortest paths b
 - Network routing protocols
 - AI pathfinding algorithms
 
-
 ---
 
-## 📂 **Code Versions**
+## 📂 Code Versions
 
-### **Version 1**
+### Version 1
 In this version:
 - The priority queue is implemented using an **array**.
 - Nodes are sorted after every `enqueue` operation based on their priority.
@@ -53,7 +51,7 @@ In this version:
 
 ---
 
-### **Version 2**
+### Version 2
 In this version:
 - The priority queue is implemented using a **binary heap** for better efficiency.
 - Includes custom `Node` objects for each graph vertex.
@@ -61,14 +59,13 @@ In this version:
 
 ---
 
-## ⚙️ **How to Use**
+## ⚙️ How to Use
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/S4vad/Dijstras_Algorithm_for_single_source_shortest_path.git
    cd Dijstras_Algorithm_for_single_source_shortest_path
-
 ---
 
-## ⭐ **Acknowledgements**
-Dijkstra's Algorithm - Wikipedia
+##⭐ Acknowledgments
+This project was inspired by Dijkstra's Algorithm - Wikipedia.
